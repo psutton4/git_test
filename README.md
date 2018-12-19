@@ -1,0 +1,1 @@
+This is Pierce's first git project!
